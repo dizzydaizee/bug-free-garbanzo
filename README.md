@@ -1,4 +1,4 @@
-### Bug-Free Checker Class
+### Garbanzo Personal Organizer
 This code defines a `BugFreeChecker` class that checks if a given word is bug-free and if a set of lines meet certain requirements. The class constructor takes two arguments: the `word` to be checked and a `system_parameters` hash that contains parameters required for checking the lines.
 
 ### Class Methods
