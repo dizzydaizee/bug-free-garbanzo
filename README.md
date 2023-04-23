@@ -48,7 +48,13 @@ end
 checker.custom_function
 ```
 
-# today is the day
+### Garbanzo Framework
+
+This diagram depicts a Ruby class named "bug-free-garbanzo" and its relationships with other classes. The "bug-free-garbanzo" class has two child classes, "bug-free" and "garbanzo," which are connected to it by inheritance relationships.
+
+The "bug-free" class has a child class named "bug," which is connected to it by an inheritance relationship. The "garbanzo" class has a child class named "anzo," which is connected to it by an inheritance relationship.
+
+In addition to the class hierarchy, there is a local socket API represented by the symbol "o" at the bottom of the diagram. The specific functionality of this API is not clear from the diagram, but it appears to be connected to the "anzo" class.
 
 ```ruby
            +-----------------------+
